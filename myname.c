@@ -2,6 +2,6 @@
 
 main() {
 
-    printf("¤g¨§¤Y¤l
+    printf("åœŸè±†ä¸¸å­
     \n");
 }
