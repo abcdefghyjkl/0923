@@ -2,6 +2,5 @@
 
 main() {
 
-    printf("土豆丸子
-    \n");
+    printf("土豆丸子\n");
 }
